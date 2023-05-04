@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL Exceptions", "STL Exceptions\STL Exceptions.vcxproj", "{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Debug|x64.ActiveCfg = Debug|x64
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Debug|x64.Build.0 = Debug|x64
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Debug|x86.Build.0 = Debug|Win32
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Release|x64.ActiveCfg = Release|x64
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Release|x64.Build.0 = Release|x64
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Release|x86.ActiveCfg = Release|Win32
+		{7F91D7CF-BD73-4D06-93E3-78BEE2A299AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E11D98-056A-4AAD-B0A5-1BE594D399E2}
+	EndGlobalSection
+EndGlobal
